@@ -1,1 +1,3 @@
-# Max1ieGPT
+# Max1ieGPT 
+
+Clone of ChatGPT
